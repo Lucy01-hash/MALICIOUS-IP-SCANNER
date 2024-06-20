@@ -5,7 +5,7 @@ import json
 from termcolor import colored
 
 # Replace 'your_virustotal_api_key' with your actual VirusTotal API key
-VIRUSTOTAL_API_KEY = 'c287c53bfc8d826d070658f458852f580582b08cfdfd9202cdf28e78499eaefb'
+VIRUSTOTAL_API_KEY = 'YOUR OWN API KEY'
 VIRUSTOTAL_URL = 'https://www.virustotal.com/vtapi/v2/ip-address/report'
 
 # Configure logging
